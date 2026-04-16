@@ -1,0 +1,6 @@
+{
+  "name": "Trial Finder India",
+  "description": "Aggregates and searches oncology clinical trials from CTRI, ClinicalTrials.gov, and NCG for Indian oncologists and patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
